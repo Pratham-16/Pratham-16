@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="assets/icons/css3.svg" height="40" alt="CSS3" title="CSS3" />
   <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" title="Python" />
   <img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C" title="C" />
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++" title="C++" />
@@ -24,7 +24,7 @@
   <img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux" title="Kali Linux" />
   <img src="https://cdn.simpleicons.org/parrotsecurity" width="40" height="40" alt="Parrot OS" title="Parrot OS" />
   <img src="https://cdn.simpleicons.org/ubuntu" width="40" height="40" alt="Ubuntu" title="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/windows11" width="40" height="40" alt="Windows" title="Windows" />
+  <img src="assets/icons/windows.svg" height="40" alt="Windows" title="Windows" />
   <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" title="Linux (general)" />
 </p>
 
@@ -42,10 +42,10 @@
   <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite" title="Burp Suite" />
   <img src="https://cdn.simpleicons.org/wireshark" width="40" height="40" alt="Wireshark" title="Wireshark" />
   <img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit" title="Metasploit" />
-  <img src="https://cdn.simpleicons.org/nmap" width="40" height="40" alt="Nmap" title="Nmap" />
-  <img src="https://cdn.simpleicons.org/nessus" width="40" height="40" alt="Nessus" title="Nessus" />
-  <img src="https://cdn.simpleicons.org/greenbone" width="40" height="40" alt="OpenVAS" title="OpenVAS (Greenbone)" />
-  <img src="https://cdn.simpleicons.org/projectdiscovery" width="40" height="40" alt="Nuclei" title="Nuclei (ProjectDiscovery)" />
+  <img src="assets/icons/nmap.svg" height="40" alt="Nmap" title="Nmap" />
+  <img src="assets/icons/nessus.svg" height="40" alt="Nessus" title="Nessus" />
+  <img src="assets/icons/openvas.svg" height="40" alt="OpenVAS" title="OpenVAS" />
+  <img src="assets/icons/nuclei.svg" height="40" alt="Nuclei" title="Nuclei" />
 </p>
 
-> A few of these (`parrotsecurity`, `nmap`, `nessus`, `greenbone`, `projectdiscovery`) may not have official logos in the Simple Icons library — GitHub will just show a broken image for any that don't exist. Tell me which ones break and I'll swap in a close substitute icon for just those.
+> `CSS3`, `Windows`, `Nmap`, `Nessus`, `OpenVAS`, and `Nuclei` don't have official logos in the Simple Icons library, so those are custom text-tile icons (in `assets/icons/`) instead of brand logos. `parrotsecurity` is still pulled from Simple Icons — if it shows up broken on GitHub, tell me and I'll make a custom tile for that one too.
