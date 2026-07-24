@@ -1,8 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/b14ckW0lf/b14ckW0lf/main/metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1f0d&height=140&section=header&text=b14ckW0lf&fontColor=39FF14&fontSize=46&fontAlignY=45&desc=CYBER%20SECURITY%20%7C%20VAPT%20%7C%20PENETRATION%20TESTING&descAlignY=70&descColor=39FF14&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=45&background=00000000&lines=root%40b14ckW0lf%3A~%23+whoami;%3E+breaking+systems+to+understand+them;%3E+building+tools+in+the+shadows;%3E+VAPT+%7C+OSINT+%7C+Recon+%7C+Exploitation" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
+```
+┌──(b14ckW0lf㉿kali)-[~]
+└─$ whoami
+
+  > Cyber Security-focused CS student, sharpening skills in
+    Vulnerability Assessment & Penetration Testing (VAPT).
+
+┌──(b14ckW0lf㉿kali)-[~]
+└─$ cat objective.txt
+
+  > Becoming industry-ready in VAPT & penetration testing.
+  > Runs Kali Linux daily. Self-taught in Python, cryptography,
+  > and web security fundamentals — learns by building real tools.
+
+┌──(b14ckW0lf㉿kali)-[~]
+└─$ ls communities/
+
+  The_Black_Shell_India/
+
+┌──(b14ckW0lf㉿kali)-[~]
+└─$ cat philosophy.txt
+
+  > "You can't defend what you don't understand how to break."
+
+┌──(b14ckW0lf㉿kali)-[~]
+└─$ _
+```
 
 ---
 
