@@ -19,7 +19,7 @@
 └─$ cat objective.txt
 
   > Becoming industry-ready in VAPT & penetration testing.
-  > Runs Kali Linux daily. Self-taught in Python, cryptography,
+  > Runs Kali Linux daily. Self-taught in Python.
   > and web security fundamentals — learns by building real tools.
 
 ┌──(b14ckW0lf㉿kali)-[~]
@@ -30,7 +30,7 @@
 ┌──(b14ckW0lf㉿kali)-[~]
 └─$ cat philosophy.txt
 
-  > "You can't defend what you don't understand how to break."
+  > "Curiosity is the first exploit."
 
 ┌──(b14ckW0lf㉿kali)-[~]
 └─$ _
@@ -79,5 +79,3 @@
   <img src="assets/icons/openvas.svg" height="40" alt="OpenVAS" title="OpenVAS" />
   <img src="assets/icons/nuclei.svg" height="40" alt="Nuclei" title="Nuclei" />
 </p>
-
-> `CSS3`, `Windows`, `Nmap`, `Nessus`, `OpenVAS`, and `Nuclei` don't have official logos in the Simple Icons library, so those are custom text-tile icons (in `assets/icons/`) instead of brand logos. `parrotsecurity` is still pulled from Simple Icons — if it shows up broken on GitHub, tell me and I'll make a custom tile for that one too.
